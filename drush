@@ -2,3 +2,9 @@
 #simple commands to use in cd /var/www/[drupal_folder_name]
 drush status
 # will give an overview of Drupal site
+drush cc
+# flushing the cache
+drush cc all
+# clear all the caches
+drush pm-download views
+# install views - 
