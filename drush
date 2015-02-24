@@ -1,0 +1,4 @@
+#  shell interface for managing Drupal from cloud server command line
+#simple commands to use in cd /var/www/[drupal_folder_name]
+drush status
+# will give an overview of Drupal site
