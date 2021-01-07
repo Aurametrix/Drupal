@@ -36,3 +36,11 @@ mysqladmin -u root password 'yourPassword'
 Then you can login with
 
 mysql -u root -p
+
+### Drupal crisis
+[9.0.0](https://dri.es/drupal-9-0-0-released)
+{Is it time to give Drupal another look?}(https://stackoverflow.blog/2020/06/23/is-it-time-to-give-drupal-another-look/)
+
+### PHP
+[Is PHP still relevant in 2021?](https://medium.com/better-programming/is-php-still-relevant-in-2021-19580c75855)
+
