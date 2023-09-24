@@ -44,3 +44,5 @@ mysql -u root -p
 ### PHP
 [Is PHP still relevant in 2021?](https://medium.com/better-programming/is-php-still-relevant-in-2021-19580c75855)
 
+[Monica](https://github.com/monicahq/monica) - Open source [personal CRM](https://www.monicahq.com/)
+
